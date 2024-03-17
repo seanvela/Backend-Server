@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "menuId": 1,
+        "fooditemId": 1,
+        "fooditemPrice": 10,
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "menuId": 1,
+        "fooditemId": 4,
+        "fooditemPrice": 15,
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "menuId": 1,
+        "fooditemId": 8,
+        "fooditemPrice": 10,
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "menuId": 1,
+        "fooditemId": 11,
+        "fooditemPrice": 12,
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "menuId": 1,
+        "fooditemId": 17,
+        "fooditemPrice": 25,
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "menuId": 2,
+        "fooditemId": 1,
+        "fooditemPrice": 12,
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "menuId": 2,
+        "fooditemId": 3,
+        "fooditemPrice": 22,
+        "isActive": true
+    },
+    {
+        "id": 8,
+        "menuId": 2,
+        "fooditemId": 6,
+        "fooditemPrice": 17,
+        "isActive": true
+    },
+    {
+        "id": 9,
+        "menuId": 2,
+        "fooditemId": 12,
+        "fooditemPrice": 24,
+        "isActive": true
+    },
+    {
+        "id": 10,
+        "menuId": 2,
+        "fooditemId": 15,
+        "fooditemPrice": 15,
+        "isActive": true
+    },
+    {
+        "id": 11,
+        "menuId": 3,
+        "fooditemId": 4,
+        "fooditemPrice": 10,
+        "isActive": true
+    },
+    {
+        "id": 12,
+        "menuId": 3,
+        "fooditemId": 5,
+        "fooditemPrice": 25,
+        "isActive": true
+    },
+    {
+        "id": 13,
+        "menuId": 3,
+        "fooditemId": 13,
+        "fooditemPrice": 14,
+        "isActive": true
+    },
+    {
+        "id": 14,
+        "menuId": 3,
+        "fooditemId": 20,
+        "fooditemPrice": 12,
+        "isActive": true
+    },
+    {
+        "id": 15,
+        "menuId": 4,
+        "fooditemId": 2,
+        "fooditemPrice": 12,
+        "isActive": true
+    },
+    {
+        "id": 16,
+        "menuId": 4,
+        "fooditemId": 9,
+        "fooditemPrice": 15,
+        "isActive": true
+    },
+    {
+        "id": 17,
+        "menuId": 4,
+        "fooditemId": 10,
+        "fooditemPrice": 25,
+        "isActive": true
+    },
+    {
+        "id": 18,
+        "menuId": 5,
+        "fooditemId": 16,
+        "fooditemPrice": 35,
+        "isActive": true
+    },
+    {
+        "id": 19,
+        "menuId": 6,
+        "fooditemId": 18,
+        "fooditemPrice": 30,
+        "isActive": true
+    },
+    {
+        "id": 20,
+        "menuId": 7,
+        "fooditemId": 19,
+        "fooditemPrice": 25,
+        "isActive": true
+    },
+    {
+        "id": 21,
+        "menuId": 8,
+        "fooditemId": 16,
+        "fooditemPrice": 32,
+        "isActive": true
+    },
+    {
+        "id": 22,
+        "menuId": 8,
+        "fooditemId": 19,
+        "fooditemPrice": 34,
+        "isActive": true
+    },
+    {
+        "id": 23,
+        "menuId": 9,
+        "fooditemId": 18,
+        "fooditemPrice": 32,
+        "isActive": true
+    },
+    {
+        "id": 24,
+        "menuId": 9,
+        "fooditemId": 19,
+        "fooditemPrice": 30,
+        "isActive": true
+    },
+    {
+        "id": 25,
+        "menuId": 10,
+        "fooditemId": 10,
+        "fooditemPrice": 30,
+        "isActive": true
+    }
+]

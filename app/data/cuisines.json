@@ -1,0 +1,64 @@
+[
+    {
+      "id" : 1,
+      "name" : "Italian",
+      "description" : "Mouthwatering slices of cheesy goodness, baked to perfection.",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Collage_cucina_italiana.jpg/300px-Collage_cucina_italiana.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Indian",
+      "description" : "Discover the diverse and vibrant flavors of India, from aromatic curries to sizzling tandoori dishes and mouthwatering biryanis.",
+      "image" : "https://cdn.pixabay.com/photo/2018/12/04/16/49/indian-food-3856050_1280.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "Chinese",
+      "description" : "Embark on a culinary journey through China with savory stir-fries, delectable dumplings, and aromatic fried rice.",
+      "image" : "https://cdn.pixabay.com/photo/2016/02/22/17/05/food-1216048_1280.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "Japanese",
+      "description" : "Savor the delicate artistry of Japanese cuisine with fresh sushi, savory ramen, and perfectly grilled teriyaki delights.",
+      "image" : "https://cdn.pixabay.com/photo/2015/02/17/07/54/sushi-639105_1280.jpg"
+    },
+    {
+      "id" : 5,
+      "name" : "Thai",
+      "description" : "Indulge in the exotic and harmonious flavors of Thailand, from fragrant curries to zesty stir-fries and tangy, sweet-sour delights.",
+      "image" : "https://cdn.pixabay.com/photo/2016/10/13/05/16/thai-curry-1736806_1280.jpg"
+    },
+    {
+      "id" : 6,
+      "name" : "Mexican",
+      "description" : "Spice up your taste buds with vibrant Mexican flavors, from sizzling fajitas to zesty guacamole and refreshing margaritas.",
+      "image" : "https://cdn.pixabay.com/photo/2019/04/14/03/08/burrito-4126108_1280.jpg"
+    },
+    {
+      "id" : 7,
+      "name" : "American",
+      "description" : "Experience the classic tastes of America with juicy burgers, crispy fried chicken, and all-American favorites like mac and cheese.",
+      "image" : "https://cdn.pixabay.com/photo/2014/09/18/21/17/sandwich-451403_1280.jpg"
+    },
+    {
+      "id" : 8,
+      "name" : "French",
+      "description" : "Indulge in the elegance of French cuisine with delicate pastries, rich sauces, and gourmet classics like Coq au Vin and Ratatouille.",
+      "image" : "https://cdn.pixabay.com/photo/2016/11/22/19/31/macarons-1850216_1280.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "Greek",
+      "description" : "Indulge in the simple yet delicious flavors of Greece, from tangy tzatziki and tender souvlaki to crispy spanakopita and sweet baklava.",
+      "image" : "https://cdn.pixabay.com/photo/2021/01/10/04/37/salad-5904093_1280.jpg"
+    },
+    {
+      "id" : 10,
+      "name" : "Turkish",
+      "description" : "Delight in the rich and aromatic flavors of Turkish cuisine, from succulent kebabs and flavorful mezes to mouthwatering baklava and traditional Turkish tea.",
+      "image" : "https://cdn.pixabay.com/photo/2016/09/06/14/23/authentic-greek-1649223_1280.jpg"
+    }
+]
+  
+  

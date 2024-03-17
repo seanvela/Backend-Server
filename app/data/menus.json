@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "restaurantId": 1,
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "restaurantId": 2,
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "restaurantId": 3,
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "restaurantId": 4,
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "restaurantId": 5,
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "restaurantId": 6,
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "restaurantId": 7,
+        "isActive": true
+    },
+    {
+        "id": 8,
+        "restaurantId": 8,
+        "isActive": true
+    },
+    {
+        "id": 9,
+        "restaurantId": 9,
+        "isActive": true
+    },
+    {
+        "id": 10,
+        "restaurantId": 10,
+        "isActive": true
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "food_order_app_node_server",
+  "version": "1.0.0",
+  "description": "Backend server for Food Order App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

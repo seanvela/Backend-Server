@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "email": "john@gmail.com",
+        "username": "john35@d",
+        "password": "johnd",
+        "fullname": "John Doe"
+    },
+    {
+        "id": 2,
+        "email": "morrison@gmail.com",
+        "username": "mor_2314",
+        "password": "morrd",
+        "fullname": "David Morrison"
+    },
+    {
+        "id": 3,
+        "email": "kevin@gmail.com",
+        "username": "kevinryan",
+        "password": "kevinR",
+        "fullname": "Kevin Ryan"
+    },
+    {
+        "id": 4,
+        "email": "don@gmail.com",
+        "username": "donero",
+        "password": "donromer",
+        "fullname": "Don Romer"
+    }
+]
